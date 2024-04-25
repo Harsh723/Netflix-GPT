@@ -8,6 +8,10 @@
 - Login/Sign up
     - Sign In/ Sign up Form
     - redirect to browse page
+    - Header
+    - login form
+    - sign up form
+    - If you have to build large form application (use formik and yup library)
 
 - Browse (after authentication)
     -Header
@@ -20,3 +24,4 @@
 - Netflix GPT
  - Search Bar
  - Movie Suggestion
+ 

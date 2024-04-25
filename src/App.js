@@ -1,9 +1,12 @@
-import './App.css';
+import Browse from "./components/Browse";
+import Login from "./components/Login";
 
 function App() {
+
   return (
-    <div className="text-3xl font-bold underline">
-        hello tailwind
+    <div>
+      <Login/>
+      <Browse/>
     </div>
   );
 }
